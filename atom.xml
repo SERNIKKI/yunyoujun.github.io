@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>云游君的小站</title>
+  <icon>https://www.yunyoujun.cn/favicon.png</icon>
+  <subtitle>在这世界的某个角落 - 但盼风雨来</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://www.yunyoujun.cn/"/>
+  <updated>2020-03-12T17:31:08.000Z</updated>
+  <id>https://www.yunyoujun.cn/</id>
+  
+  <author>
+    <name>云游君</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>教你如何从零开始搭建一个属于自己的网站</title>
+    <link href="https://www.yunyoujun.cn/share/how-to-build-your-site/"/>
+    <id>https://www.yunyoujun.cn/share/how-to-build-your-site/</id>
+    <published>2020-03-04T17:31:08.000Z</published>
+    <updated>2020-03-12T17:31:08.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;写给想要拥有一个自己的网站但没有资金成本的小白与曾经的自己。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;虽说是网站，对于个人来说，或许一般叫作博客。&lt;br&gt;但我不希望它仅仅是一个博客，而是能够成为一个处于自己现实生活之外、自由、实验、不用畏惧他人眼光甚至可以独断专行的地方。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="云游的小安利" scheme="https://www.yunyoujun.cn/categories/%E4%BA%91%E6%B8%B8%E7%9A%84%E5%B0%8F%E5%AE%89%E5%88%A9/"/>
+    
+    
+      <category term="教程" scheme="https://www.yunyoujun.cn/tags/%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="分享" scheme="https://www.yunyoujun.cn/tags/%E5%88%86%E4%BA%AB/"/>
+    
+      <category term="Hexo" scheme="https://www.yunyoujun.cn/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>👴就是二次元，故尝试证明。</title>
+    <link href="https://www.yunyoujun.cn/share/i-am-er-ci-yuan-and-try-to-prove/"/>
+    <id>https://www.yunyoujun.cn/share/i-am-er-ci-yuan-and-try-to-prove/</id>
+    <published>2020-03-06T15:12:37.000Z</published>
+    <updated>2020-03-06T15:12:37.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;引言&quot;&gt;&lt;a href=&quot;#引言&quot; class=&quot;headerlink&quot; title=&quot;引言&quot;&gt;&lt;/a&gt;引言&lt;/h2&gt;&lt;p&gt;两口气看完「&lt;a href=&quot;https://www.bilibili.com/bangumi/play/ep307476&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;理科生坠入情网，故尝试证明。&lt;/a&gt;」这部番时，我想着写个观后感吧。添加到 Todo 列表后，便因为各种杂事和惰性，一拖再拖，抛之脑后。&lt;br&gt;导致现在回过头来，当初的回味几乎所剩无几。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="云游的小安利" scheme="https://www.yunyoujun.cn/categories/%E4%BA%91%E6%B8%B8%E7%9A%84%E5%B0%8F%E5%AE%89%E5%88%A9/"/>
+    
+    
+      <category term="分享" scheme="https://www.yunyoujun.cn/tags/%E5%88%86%E4%BA%AB/"/>
+    
+      <category term="随笔" scheme="https://www.yunyoujun.cn/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="动画" scheme="https://www.yunyoujun.cn/tags/%E5%8A%A8%E7%94%BB/"/>
+    
+      <category term="漫画" scheme="https://www.yunyoujun.cn/tags/%E6%BC%AB%E7%94%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Parcel.js + Vue 搭建笔记</title>
+    <link href="https://www.yunyoujun.cn/note/vue-parcel-demo/"/>
+    <id>https://www.yunyoujun.cn/note/vue-parcel-demo/</id>
+    <published>2018-02-20T13:13:42.000Z</published>
+    <updated>2020-02-25T20:05:00.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;去年（已经是三年前了！）年末便听得新一代打包工具 Parcel.js 的风风火火，今日（两年前的某一天）也终于得以静下心来试一试。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="云游的小笔记" scheme="https://www.yunyoujun.cn/categories/%E4%BA%91%E6%B8%B8%E7%9A%84%E5%B0%8F%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="笔记" scheme="https://www.yunyoujun.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="学习" scheme="https://www.yunyoujun.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="Vue" scheme="https://www.yunyoujun.cn/tags/Vue/"/>
+    
+      <category term="Parcel" scheme="https://www.yunyoujun.cn/tags/Parcel/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用 CDN 加速你的 GitHub Pages 网站</title>
+    <link href="https://www.yunyoujun.cn/note/use-cdn-speed-up-site/"/>
+    <id>https://www.yunyoujun.cn/note/use-cdn-speed-up-site/</id>
+    <published>2020-02-05T12:28:57.000Z</published>
+    <updated>2020-02-16T12:28:57.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;内容分发网络 Content Delivery Network&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="云游的小笔记" scheme="https://www.yunyoujun.cn/categories/%E4%BA%91%E6%B8%B8%E7%9A%84%E5%B0%8F%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="笔记" scheme="https://www.yunyoujun.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="CDN" scheme="https://www.yunyoujun.cn/tags/CDN/"/>
+    
+      <category term="GitHub Pages" scheme="https://www.yunyoujun.cn/tags/GitHub-Pages/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【花开物语|MAD】幹物女(WeiWei)-Bonboru!</title>
+    <link href="https://www.yunyoujun.cn/creation/video/Hana-Saku-Iroha-weiwei-bonboru/"/>
+    <id>https://www.yunyoujun.cn/creation/video/Hana-Saku-Iroha-weiwei-bonboru/</id>
+    <published>2017-01-22T10:24:48.000Z</published>
+    <updated>2020-02-09T10:24:48.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="云游的小视频" scheme="https://www.yunyoujun.cn/categories/%E4%BA%91%E6%B8%B8%E7%9A%84%E5%B0%8F%E8%A7%86%E9%A2%91/"/>
+    
+    
+      <category term="分享" scheme="https://www.yunyoujun.cn/tags/%E5%88%86%E4%BA%AB/"/>
+    
+      <category term="动画" scheme="https://www.yunyoujun.cn/tags/%E5%8A%A8%E7%94%BB/"/>
+    
+      <category term="MAD" scheme="https://www.yunyoujun.cn/tags/MAD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CSS 陷阱</title>
+    <link href="https://www.yunyoujun.cn/note/css-trap-note/"/>
+    <id>https://www.yunyoujun.cn/note/css-trap-note/</id>
+    <published>2019-06-27T10:32:55.000Z</published>
+    <updated>2020-02-03T10:32:55.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;CSS 的奇妙 Bug&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="云游的小笔记" scheme="https://www.yunyoujun.cn/categories/%E4%BA%91%E6%B8%B8%E7%9A%84%E5%B0%8F%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="笔记" scheme="https://www.yunyoujun.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="学习" scheme="https://www.yunyoujun.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="CSS" scheme="https://www.yunyoujun.cn/tags/CSS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Git 学习笔记</title>
+    <link href="https://www.yunyoujun.cn/note/git-learn-note/"/>
+    <id>https://www.yunyoujun.cn/note/git-learn-note/</id>
+    <published>2017-08-21T08:46:13.000Z</published>
+    <updated>2020-02-03T08:46:13.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="云游的小笔记" scheme="https://www.yunyoujun.cn/categories/%E4%BA%91%E6%B8%B8%E7%9A%84%E5%B0%8F%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="笔记" scheme="https://www.yunyoujun.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="学习" scheme="https://www.yunyoujun.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="Git" scheme="https://www.yunyoujun.cn/tags/Git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>npm &amp; yarn 常用包与命令</title>
+    <link href="https://www.yunyoujun.cn/note/npm-and-yarn/"/>
+    <id>https://www.yunyoujun.cn/note/npm-and-yarn/</id>
+    <published>2017-10-06T07:56:20.000Z</published>
+    <updated>2020-01-29T07:04:44.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="云游的小笔记" scheme="https://www.yunyoujun.cn/categories/%E4%BA%91%E6%B8%B8%E7%9A%84%E5%B0%8F%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="分享" scheme="https://www.yunyoujun.cn/tags/%E5%88%86%E4%BA%AB/"/>
+    
+      <category term="笔记" scheme="https://www.yunyoujun.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="Node.js" scheme="https://www.yunyoujun.cn/tags/Node-js/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用 CCD 或 FABRIK 实现逆向动力学</title>
+    <link href="https://www.yunyoujun.cn/note/methods-for-inverse-kinematics/"/>
+    <id>https://www.yunyoujun.cn/note/methods-for-inverse-kinematics/</id>
+    <published>2020-01-14T14:16:27.000Z</published>
+    <updated>2020-01-14T14:16:27.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+
+&lt;p&gt;动力学主要分为正向动力学（FK）和反向动力学（IK）。&lt;br&gt;正向动力学实现起来十分简单，了解点基本原理，或者网上一搜，都能写出来。&lt;br&gt;反向动力学中比较流行的方法则是 Cyclic Coordinate Descent（CCD）和
+        
+      
+    
+    </summary>
+    
+    
+      <category term="云游的小笔记" scheme="https://www.yunyoujun.cn/categories/%E4%BA%91%E6%B8%B8%E7%9A%84%E5%B0%8F%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="计算机图形学" scheme="https://www.yunyoujun.cn/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/"/>
+    
+      <category term="笔记" scheme="https://www.yunyoujun.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="学习" scheme="https://www.yunyoujun.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【译】30 分钟学会 LaTeX</title>
+    <link href="https://www.yunyoujun.cn/share/trans-learn-latex-in-30-minutes/"/>
+    <id>https://www.yunyoujun.cn/share/trans-learn-latex-in-30-minutes/</id>
+    <published>2019-10-28T08:02:36.000Z</published>
+    <updated>2019-11-05T08:09:36.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;译自 &lt;a href=&quot;https://cn.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Overleaf - Learn LaTeX in 30 minutes&lt;/a&gt;&lt;br&gt;云游君 (YunYouJun) &lt;a href=&quot;mailto:&amp;#x6d;&amp;#101;&amp;#x40;&amp;#121;&amp;#x75;&amp;#110;&amp;#121;&amp;#x6f;&amp;#117;&amp;#x6a;&amp;#117;&amp;#110;&amp;#x2e;&amp;#99;&amp;#x6e;&quot;&gt;&amp;#x6d;&amp;#101;&amp;#x40;&amp;#121;&amp;#x75;&amp;#110;&amp;#121;&amp;#x6f;&amp;#117;&amp;#x6a;&amp;#117;&amp;#110;&amp;#x2e;&amp;#99;&amp;#x6e;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;在本指南中，我们希望为您初步介绍一下 LaTeX 。&lt;br&gt;该指南不需要您具有任何 LaTeX 的&lt;a href=&quot;https://baike.baidu.com/item/先验知识&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;先验知识&lt;/a&gt;，&lt;br&gt;不过到您完成时，您将会已经编写出您的第一个 LaTeX 文档，并且如果顺利的话，您将能够对 LaTeX 提供的一些基本功能有很好地了解。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="云游的小安利" scheme="https://www.yunyoujun.cn/categories/%E4%BA%91%E6%B8%B8%E7%9A%84%E5%B0%8F%E5%AE%89%E5%88%A9/"/>
+    
+    
+      <category term="教程" scheme="https://www.yunyoujun.cn/tags/%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="分享" scheme="https://www.yunyoujun.cn/tags/%E5%88%86%E4%BA%AB/"/>
+    
+      <category term="LaTeX" scheme="https://www.yunyoujun.cn/tags/LaTeX/"/>
+    
+      <category term="译文" scheme="https://www.yunyoujun.cn/tags/%E8%AF%91%E6%96%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【转】三维文件格式知多少</title>
+    <link href="https://www.yunyoujun.cn/share/how-much-3d-format/"/>
+    <id>https://www.yunyoujun.cn/share/how-much-3d-format/</id>
+    <published>2019-10-30T08:01:46.000Z</published>
+    <updated>2019-10-30T08:01:46.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;三维文件格式知多少 | abc、glTF、fbx、obj、dae、stl、3ds…&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;文章来源: 饼干教育&lt;br&gt;原文链接: &lt;a href=&quot;https://www.bgteach.com/article/132&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.bgteach.com/article/132&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="云游的小安利" scheme="https://www.yunyoujun.cn/categories/%E4%BA%91%E6%B8%B8%E7%9A%84%E5%B0%8F%E5%AE%89%E5%88%A9/"/>
+    
+    
+      <category term="分享" scheme="https://www.yunyoujun.cn/tags/%E5%88%86%E4%BA%AB/"/>
+    
+      <category term="3D" scheme="https://www.yunyoujun.cn/tags/3D/"/>
+    
+      <category term="转载" scheme="https://www.yunyoujun.cn/tags/%E8%BD%AC%E8%BD%BD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LaTeX 使用笔记</title>
+    <link href="https://www.yunyoujun.cn/note/latex-use-note/"/>
+    <id>https://www.yunyoujun.cn/note/latex-use-note/</id>
+    <published>2019-10-21T06:16:18.000Z</published>
+    <updated>2019-10-21T06:16:18.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;LaTeX 使用过程的一些笔记与资源&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="云游的小笔记" scheme="https://www.yunyoujun.cn/categories/%E4%BA%91%E6%B8%B8%E7%9A%84%E5%B0%8F%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="笔记" scheme="https://www.yunyoujun.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="学习" scheme="https://www.yunyoujun.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="LaTeX" scheme="https://www.yunyoujun.cn/tags/LaTeX/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>potree 使用笔记</title>
+    <link href="https://www.yunyoujun.cn/note/potree-use-note/"/>
+    <id>https://www.yunyoujun.cn/note/potree-use-note/</id>
+    <published>2019-10-14T03:04:26.000Z</published>
+    <updated>2019-10-14T03:04:26.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;potree: WebGL point cloud viewer for large datasets&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="云游的小笔记" scheme="https://www.yunyoujun.cn/categories/%E4%BA%91%E6%B8%B8%E7%9A%84%E5%B0%8F%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="笔记" scheme="https://www.yunyoujun.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="学习" scheme="https://www.yunyoujun.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="potree" scheme="https://www.yunyoujun.cn/tags/potree/"/>
+    
+      <category term="点云" scheme="https://www.yunyoujun.cn/tags/%E7%82%B9%E4%BA%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>路漫漫其修远兮</title>
+    <link href="https://www.yunyoujun.cn/diary/after-entering-cuc/"/>
+    <id>https://www.yunyoujun.cn/diary/after-entering-cuc/</id>
+    <published>2019-09-18T12:16:08.000Z</published>
+    <updated>2019-10-01T16:55:08.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;不知不觉已入学研究生生涯仅一个月，期间自然又有许多波折，但随着时间也似乎淡忘了许多。&lt;br&gt;在此回顾，引以为鉴。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://music.163.com/song?id=2324438&amp;userid=247102977&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Arrietty’s Song(Instrumental Version)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+    
+      <category term="云游的小日记" scheme="https://www.yunyoujun.cn/categories/%E4%BA%91%E6%B8%B8%E7%9A%84%E5%B0%8F%E6%97%A5%E8%AE%B0/"/>
+    
+    
+      <category term="时光" scheme="https://www.yunyoujun.cn/tags/%E6%97%B6%E5%85%89/"/>
+    
+      <category term="日记" scheme="https://www.yunyoujun.cn/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+      <category term="中传" scheme="https://www.yunyoujun.cn/tags/%E4%B8%AD%E4%BC%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在 macOS 下配置 OpenGL</title>
+    <link href="https://www.yunyoujun.cn/note/opengl-with-macos/"/>
+    <id>https://www.yunyoujun.cn/note/opengl-with-macos/</id>
+    <published>2019-10-01T14:08:22.000Z</published>
+    <updated>2019-10-01T14:08:22.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;More info in &lt;a href=&quot;https://yunyoujun.cn/note/webgl-from-zero&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;从零开始的 WebGL&lt;/a&gt;.&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="云游的小笔记" scheme="https://www.yunyoujun.cn/categories/%E4%BA%91%E6%B8%B8%E7%9A%84%E5%B0%8F%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="笔记" scheme="https://www.yunyoujun.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="macOS" scheme="https://www.yunyoujun.cn/tags/macOS/"/>
+    
+      <category term="CLion" scheme="https://www.yunyoujun.cn/tags/CLion/"/>
+    
+      <category term="OpenGL" scheme="https://www.yunyoujun.cn/tags/OpenGL/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>从零开始的 WebGL</title>
+    <link href="https://www.yunyoujun.cn/note/webgl-from-zero/"/>
+    <id>https://www.yunyoujun.cn/note/webgl-from-zero/</id>
+    <published>2019-09-30T13:37:55.000Z</published>
+    <updated>2019-09-30T13:37:55.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;废话&quot;&gt;&lt;a href=&quot;#废话&quot; class=&quot;headerlink&quot; title=&quot;废话&quot;&gt;&lt;/a&gt;废话&lt;/h2&gt;&lt;p&gt;近来选修课在上李亚峰老师的《高级计算机图形学》，感觉很有意思。&lt;br&gt;相比技术，老师更多穿插着介绍一些思路与想法。只可惜老师还是讲师，并不带研究生。&lt;br&gt;虽然自称本科期间上过计算机图形学，但发现早已忘了大半，实践基础很是薄弱。&lt;br&gt;当初想着 WebGL 才是未来趋势，图形学的实验除应付了 OpenGL 部分，更多用 WebGL 重新实现了一遍。&lt;br&gt;但最后却跑去整了前端和 Cocos，再回过头来却觉几乎所剩无几。&lt;/p&gt;
+&lt;p&gt;现今 OpenGL 早已停止更新，继任者 &lt;a href=&quot;https://baike.baidu.com/item/Vulkan&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Vulkan&lt;/a&gt; 也被普遍看好。&lt;br&gt;加之苹果在 WWDC 上径直宣布 macOS 平台将抛弃 OpenGL，在 Mac 平台上学习开发意义不大。&lt;br&gt;最终还是决定回顾一遍计算机图形学的基础知识，粗略看一看 OpenGL 的内容，随后实践着重放在 WebGL 上（跨平台！）。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="云游的小笔记" scheme="https://www.yunyoujun.cn/categories/%E4%BA%91%E6%B8%B8%E7%9A%84%E5%B0%8F%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="计算机图形学" scheme="https://www.yunyoujun.cn/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/"/>
+    
+      <category term="笔记" scheme="https://www.yunyoujun.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="WebGL" scheme="https://www.yunyoujun.cn/tags/WebGL/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Blender 学习笔记</title>
+    <link href="https://www.yunyoujun.cn/note/blender-learn-note/"/>
+    <id>https://www.yunyoujun.cn/note/blender-learn-note/</id>
+    <published>2019-06-26T02:49:33.000Z</published>
+    <updated>2019-08-11T02:49:33.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="云游的小笔记" scheme="https://www.yunyoujun.cn/categories/%E4%BA%91%E6%B8%B8%E7%9A%84%E5%B0%8F%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="笔记" scheme="https://www.yunyoujun.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="学习" scheme="https://www.yunyoujun.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="Blender" scheme="https://www.yunyoujun.cn/tags/Blender/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>react-learn-note</title>
+    <link href="https://www.yunyoujun.cn/note/react-learn-note/"/>
+    <id>https://www.yunyoujun.cn/note/react-learn-note/</id>
+    <published>2019-07-08T11:05:18.000Z</published>
+    <updated>2019-07-08T11:05:18.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+
+&lt;h2 id=&quot;Learn&quot;&gt;&lt;a href=&quot;#Learn&quot; class=&quot;headerlink&quot; title=&quot;Learn&quot;&gt;&lt;/a&gt;Learn&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="云游的小笔记" scheme="https://www.yunyoujun.cn/categories/%E4%BA%91%E6%B8%B8%E7%9A%84%E5%B0%8F%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="笔记" scheme="https://www.yunyoujun.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="学习" scheme="https://www.yunyoujun.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="React" scheme="https://www.yunyoujun.cn/tags/React/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>写给可爱的学弟学妹们</title>
+    <link href="https://www.yunyoujun.cn/share/to-lovely-junior/"/>
+    <id>https://www.yunyoujun.cn/share/to-lovely-junior/</id>
+    <published>2019-04-16T02:36:53.000Z</published>
+    <updated>2019-06-06T02:36:53.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;梦想还是要有的，万一实现了呢？&lt;/p&gt;
+&lt;p&gt;没有了梦想的咸鱼，和咸鱼有什么区别。&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="分享" scheme="https://www.yunyoujun.cn/tags/%E5%88%86%E4%BA%AB/"/>
+    
+      <category term="中传" scheme="https://www.yunyoujun.cn/tags/%E4%B8%AD%E4%BC%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Everyday Auto Xuexiqiangguo</title>
+    <link href="https://www.yunyoujun.cn/note/everyday-auto-xuexiqiangguo/"/>
+    <id>https://www.yunyoujun.cn/note/everyday-auto-xuexiqiangguo/</id>
+    <published>2019-05-16T13:51:55.000Z</published>
+    <updated>2019-05-16T13:51:55.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;You know what I mean.&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="云游的小笔记" scheme="https://www.yunyoujun.cn/categories/%E4%BA%91%E6%B8%B8%E7%9A%84%E5%B0%8F%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="笔记" scheme="https://www.yunyoujun.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="学习" scheme="https://www.yunyoujun.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+</feed>
